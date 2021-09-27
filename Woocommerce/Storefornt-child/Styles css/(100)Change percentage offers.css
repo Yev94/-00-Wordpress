@@ -1,0 +1,74 @@
+/*Change percentage offers*/
+/*Cambiar porcentaje ofertas*/
+
+/* + function(01): Calculates the savings percentage and displays it on the WooCommerce product tabs in the product loop*/
+/* + function(01): Calcula el porcentaje de ahorro y lo muestra en las fichas de producto de WooCommerce en el loop de productos*/
+
+/*------------------------Change ofertas (01)-----------------------------*/
+
+.product .onsale{
+    border:none;
+    position: absolute;
+    transform: rotate(-45deg);
+    color: #fff;
+    left: -22px;
+    bottom: 3px;
+    width: 70px;
+}
+
+.mysale{
+    width: 0;
+    position: absolute;
+    border-top: 3em solid #901f1f;
+    border-right: 3em solid transparent;
+    top: 0%;
+    margin-left: 10%;
+}
+
+@media (min-width: 500px){
+    .mysale{
+        margin-left: 20%;
+    }
+}
+
+@media (min-width: 600px){
+    .mysale{
+        margin-left: 25%;
+    }
+}
+
+@media (min-width: 700px){
+    .mysale{
+        margin-left: 30%;
+    }
+}
+
+@media (min-width: 768px){
+    .mysale{
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 1400px){
+    .mysale{
+        margin-left: 10%;
+    }
+}
+
+/*------------------------Change ofertas (02)-----------------------------*/
+.mysale{
+    z-index: 100;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #000;
+}
+
+.product .onsale{
+    top: 20%;
+    border:none;
+    color: #fff;
+}

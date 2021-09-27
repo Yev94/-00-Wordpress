@@ -1,7 +1,10 @@
 
 <?php
-// Calculates the savings percentage and displays it on the WooCommerce product tabs in the product loop.
+// Calculates the savings percentage and displays it on the WooCommerce product tabs in the product loop
 // Calcula el porcentaje de ahorro y lo muestra en las fichas de producto de WooCommerce en el loop de productos
+
+//Revise style css file to modify the look and feel of the product loop
+//Revisar archivo style css para modificar el aspecto en el loop de productos
 add_filter( 'woocommerce_sale_flash', 'anadir_etiqueta_de_porcentaje_producto', 20, 3 );
 function anadir_etiqueta_de_porcentaje_producto( $html, $post, $product ) {
     if( $product->is_type('variable')){
@@ -25,6 +28,6 @@ function anadir_etiqueta_de_porcentaje_producto( $html, $post, $product ) {
 
         $percentage    = round(100 - ($sale_price / $regular_price * 100)) . '%';
     }
-    return '<div class ="mysale"><span class="onsale">' . esc_html__( '-', 'woocommerce' ) . ' ' . $percentage . '</span></div>';
+    return '<div class ="mysale"><span class="onsale">' . esc_html__( '-', 'woocommerce' ) . $percentage . '</span></div>';
 }
 ?>
