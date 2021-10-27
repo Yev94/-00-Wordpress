@@ -15,4 +15,3 @@ function enqueue_styles_child_theme() {
 				);
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_styles_child_theme' );
-?>

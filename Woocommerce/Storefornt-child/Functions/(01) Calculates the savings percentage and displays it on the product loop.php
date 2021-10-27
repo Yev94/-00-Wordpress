@@ -30,4 +30,3 @@ function anadir_etiqueta_de_porcentaje_producto( $html, $post, $product ) {
     }
     return '<div class ="mysale"><span class="onsale">' . esc_html__( '-', 'woocommerce' ) . $percentage . '</span></div>';
 }
-?>

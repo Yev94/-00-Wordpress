@@ -10,4 +10,3 @@ get_header(); ?>
 <!---------- HTML code here---------- >
 <?php
 get_footer();
-?>
