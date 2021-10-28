@@ -1,4 +1,6 @@
 <?php
+// Change text en WooCommerce/WordPress
+// @link http://codex.wordpress.org/Plugin_API/Filter_Reference/gettext
 function my_text_strings( $translated_text) {
 	switch ( $translated_text ) {
 		case 'Seleccionar opciones' :
