@@ -1,6 +1,6 @@
 <?php
 /**
- * Changed footer with new copyright format
+ * Changed footer with NEW copyright format - To delete the old one go to functions > Remove copyright storefront
  * 
  * The template for displaying the footer.
  *

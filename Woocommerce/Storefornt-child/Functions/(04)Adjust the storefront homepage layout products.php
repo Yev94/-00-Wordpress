@@ -1,6 +1,6 @@
 <?php
-//Adjust the storefront homepage template layout
-
+//Adjust the storefront homepage products layout
+//Ajustar la disposición de los productos del hompage storefront
 function child_theme_homepage_layout() {
     //Remove all prodtucts what I don't want
     remove_action( 'homepage', 'storefront_product_categories', 20 );
