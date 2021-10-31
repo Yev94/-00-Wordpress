@@ -1,0 +1,24 @@
+BackWPup - WordPress Backup Plugin
+
+Classic Editor - Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc.
+
+Clear Cache For Me - Purges all cache
+
+Contact Form 7 - plugin de formularios de contacto
+
+GDPR Cookie Compliance (CCPA, PIPEDA ready) - preparar tu sitio para las siguientes regulaciones de protección de datos
+
+Limit Login Attempts Reloaded - Limita la tasa de intentos de acceso para cada dirección IP.
+
+Really Simple SSL - Plugin ligero sin configuraciones que hace que tu sitio cargue con SSL
+
+WooCommerce - Una herramienta de eCommerce que te ayuda a vender cualquier cosa.
+
+WP Mail SMTP - Reconfigura la función wp_mail() para usar Gmail/Mailgun/SendGrid/SMTP en lugar de mail() por defecto
+
+WP Rocket - WordPress performance plugin.
+
+WP-Optimize - Clean, Compress, Cache. Limpia la base de datos, comprime las imágenes y guarda las páginas en la caché.
+
+Yoast SEO - SEO, incluyendo análisis de contenido de páginas, mapas del sitio en XML.
+

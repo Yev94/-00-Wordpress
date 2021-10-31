@@ -1,0 +1,1 @@
+Storefront Visual Hook Guide - Encuentra los ganchos de acción de Storefront y Woocommerce de forma rápida y sencilla al ver sus ubicaciones actuales dentro de tu tema.

@@ -1,0 +1,25 @@
+Advanced Product Fields for WooCommerce - Customize product pages with fields ( = product add-ons).
+
+Paquetes de productos de WPC para WooCommerce - agrupa algunos productos y ofrecerlos con descuento
+
+PAYCOMET Woocommerce - La pasarela de pago PAYCOMET para WooCommerce
+
+PPOM for WooCommerce by N-MEDIA - PPOM plugin allow create input fields and files to attach with Product Page
+
+Product Slider for WooCommerce - Slide your WooCommerce Products
+
+Shipping Method Display Style for WooCommerce - Provides a configuration to display shipping methods as Radio button or select box on the checkout page.
+
+WooCommerce Admin - El plugin incluye informes y un escritorio para vigilar todas las métricas clave de tu sitio.
+
+WooCommerce Custom Product Addons (Free) - WooCommerce Product add-on plugin. Add custom fields and product options.
+
+WooCommerce Shipping & Tax - Cálculos automáticos de impuestos, tarifas de envío en directo, impresión de etiquetas de envío
+
+WPB Product Quick View Popup for WooCommerce - Highly customizable product quick view lightbox plugin for WooCommerce Store.
+
+WPC Composite Products for WooCommerce - WPC Composite Products provide a powerful kit-building solution for WooCommerce store.
+
+YITH WooCommerce Social Login - Permite a tus usuarios y clientes registrarse y acceder a tu tienda usando una de sus redes sociales.
+
+YITH WooCommerce Wishlist - Les proporciona a tus usuarios la posibilidad de crear, llenar, administrar y compartir sus listas de deseos permitiéndote analizar sus intereses y necesidades para mejorar tus estrategias de marketing
