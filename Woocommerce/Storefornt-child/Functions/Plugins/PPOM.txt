@@ -1,0 +1,2 @@
+templates > frontend > inputs > select
+$option_label   = $value['label']; > $option_label   = $value['raw'];
