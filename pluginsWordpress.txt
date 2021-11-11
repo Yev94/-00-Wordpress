@@ -8,6 +8,8 @@ Contact Form 7 - plugin de formularios de contacto
 
 GDPR Cookie Compliance (CCPA, PIPEDA ready) - preparar tu sitio para las siguientes regulaciones de protección de datos
 
+Go Live - Cambia URL's del sitio
+
 Limit Login Attempts Reloaded - Limita la tasa de intentos de acceso para cada dirección IP.
 
 Really Simple SSL - Plugin ligero sin configuraciones que hace que tu sitio cargue con SSL
@@ -15,6 +17,8 @@ Really Simple SSL - Plugin ligero sin configuraciones que hace que tu sitio carg
 WooCommerce - Una herramienta de eCommerce que te ayuda a vender cualquier cosa.
 
 WP Mail SMTP - Reconfigura la función wp_mail() para usar Gmail/Mailgun/SendGrid/SMTP en lugar de mail() por defecto
+
+Wp maintenance - Pone la web con nota de estado de mantenimiento
 
 WP Rocket - WordPress performance plugin.
 
